@@ -1,0 +1,42 @@
+body {
+  font-family: monospace;
+}
+
+#app {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.title {
+  font-weight: 800;
+}
+
+button, input[type="submit"] {
+    padding: 5px;
+    font-size: 13px;
+    border-radius: 5px;
+    width: 98px;
+}
+
+input[type="submit"] {
+margin-top: 20px;
+}
+
+button {
+  min-width: 136px;
+  margin: 11px;
+}
+
+ul li {
+  list-style: none;
+}
+
+span {
+    display: inline-block;
+    width: 136px;
+    padding: 11px;
+    text-align: center;
+}
